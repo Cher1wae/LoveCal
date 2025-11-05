@@ -46,6 +46,8 @@ Optional delay or animation makes the reveal more fun and engaging.
 
 This gives each name combination a consistent, stored “compatibility score.”
 
+
+```
 📂 File Structure
 LoveCal/
 │
@@ -53,6 +55,7 @@ LoveCal/
 ├── love.css         # Styles for layout and colors
 ├── love.js          # Core app logic
 └── .gitignore       # Hidden files/folders excluded from version control
+```
 
 
 You can easily customize the style in love.css or tweak logic in love.js.
